@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 📝 I regularly write articles on [https://huzaifaprogrammer.netlify.app/](https://huzaifaprogrammer.netlify.app/)
+- 📝 I thought piece is on [https://huzaifaprogrammer.netlify.app/](https://huzaifaprogrammer.netlify.app/)
 
 - 💬 Ask me about **Python,Data Structure and Algorithm**
 
